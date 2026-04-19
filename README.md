@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Maheshwor Mandal
 
 🎓 BSc in Information Technology | 📍 Kathmandu  
-🧑‍💻 Passionate about Web Development | Data Science 
+🧑‍💻 Passionate about .........
 
 🌱 Currently learning 
 📫 Reach me at: maheshwor.mandal@westcliff.edu
